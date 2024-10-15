@@ -15,14 +15,14 @@ export const Contact = (props) => {
     setState((prevState) => ({ ...prevState, [name]: value }));
   };
   const clearState = () => setState({ ...initialState });
-  
-  
+
+
   const handleSubmit = (e) => {
     e.preventDefault();
     console.log(name, email, message);
-    
+
     {/* replace below with your own Service ID, Template ID and Public Key from your EmailJS account */ }
-    
+
     emailjs
       .sendForm("YOUR_SERVICE_ID", "YOUR_TEMPLATE_ID", e.target, "YOUR_PUBLIC_KEY")
       .then(
@@ -99,7 +99,7 @@ export const Contact = (props) => {
             </div>
           </div>
           <div className="col-md-3 col-md-offset-1 contact-info">
-            <div className="contact-item">
+            {/* <div className="contact-item">
               <h3>Contact Info</h3>
               <p>
                 <span>
@@ -107,9 +107,11 @@ export const Contact = (props) => {
                 </span>
                 {props.data ? props.data.address : "loading"}
               </p>
-            </div>
+            </div> */}
             <div className="contact-item">
+
               <p>
+                <h3>Contact Info</h3>
                 <span>
                   <i className="fa fa-phone"></i> Phone
                 </span>{" "}
@@ -150,7 +152,7 @@ export const Contact = (props) => {
           </div>
         </div>
       </div>
-      <div id="footer">
+      {/* <div id="footer">
         <div className="container text-center">
           <p>
             &copy; 2023 Issaaf Kattan React Land Page Template. Design by{" "}
@@ -159,7 +161,7 @@ export const Contact = (props) => {
             </a>
           </p>
         </div>
-      </div>
+      </div> */}
     </div>
   );
 };
