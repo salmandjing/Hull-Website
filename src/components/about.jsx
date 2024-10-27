@@ -4,12 +4,11 @@ export const About = (props) => {
   return (
     <div id="about">
       <div className="container">
-        <div className="row">
+        <div className="row align-items-center"> {/* Added class to vertically align items */}
           <div className="col-xs-12 col-md-6">
-            {" "}
-            <img src="img/about.jpg" className="img-responsive" alt="" />{" "}
+            <img src="img/about2.jpg" className="img-responsive" alt="" />
           </div>
-          <div className="col-xs-12 col-md-6">
+          <div className="col-xs-12 col-md-6 d-flex align-items-center"> {/* Added classes to center the text */}
             <div className="about-text">
               <h2>About Me</h2>
               <p>{props.data ? props.data.paragraph : "loading..."}</p>

@@ -152,16 +152,18 @@ export const Contact = (props) => {
           </div>
         </div>
       </div>
-      {/* <div id="footer">
+      <div id="footer">
         <div className="container text-center">
           <p>
-            &copy; 2023 Issaaf Kattan React Land Page Template. Design by{" "}
-            <a href="http://www.templatewire.com" rel="nofollow">
-              TemplateWire
-            </a>
+            The information provided during financial coaching sessions is for educational purposes only and should not be considered financial advice. I am not a certified financial planner or advisor, and my recommendations are based on personal experience and general financial principles.
+
+            Before making any financial decisions, please consult with a qualified financial professional who can consider your individual circumstances. I am not liable for any actions taken based on the information provided in our sessions.
+
+            Your financial situation is unique, and it is essential to conduct your own research and due diligence before implementing any strategies discussed.
+
           </p>
         </div>
-      </div> */}
-    </div>
+      </div>
+    </div >
   );
 };

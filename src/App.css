@@ -1,8 +1,9 @@
-@media screen and (max-width: 400px) {
+@media screen and (max-width: 800px) {
   #features {
     padding: 20px;
     width: 111%;
   }
+
   #about,
   #services,
   #testimonials,
