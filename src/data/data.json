@@ -1,21 +1,19 @@
 {
   "Header": {
-    "title": "Hull Harmon Financial Coaching",
+    "title": "Hull Harmon",
+    "title2": "Financial Coaching",
     "paragraph": "Managing money can be stressful. I empower you to take control of your financial well being. I provide in-depth coaching and guidance on managing cashflow, conquering debt , maximizing your savings."
   },
   "About": {
-    "paragraph": "My financial journy began with .... Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua.",
+    "paragraph": "I’m Hull, a dedicated financial enthusiast on a mission to empower others toward financial literacy and independence. My journey began in 2008 during the housing crisis, a time when I witnessed friends and family endure the loss of homes, savings, and jobs. That experience highlighted for me the crucial importance of understanding money and making it work to secure a stable future. Determined to master my finances, I immersed myself in financial literature, exploring topics like budgeting, investing, and money management. Through this self-education, I began applying what I learned to my own financial situation and witnessed significant growth in various areas of my finances. Today, I proudly consider myself financially astute and am committed to sharing my knowledge with others. I specialize in coaching individuals on budget planning, savings, and managing and eliminating their debt. I believe that achieving financial success starts with a solid understanding of the fundamentals.",
     "Why": [
-      "Lorem ipsum dolor",
-      "Tempor incididunt",
-      "Lorem ipsum dolor",
-      "Incididunt ut labore"
+      "Weekly 1:1 Time ",
+      "15 Years of Experience",
+      "No Judgement",
+      "35+ Sucessful Customers"
     ],
     "Why2": [
-      "Aliquip ex ea commodo",
-      "Lorem ipsum dolor",
-      "Exercitation ullamco",
-      "Lorem ipsum dolor"
+    
     ]
   },
   "Gallery": [
@@ -99,34 +97,19 @@
   ],
   "Testimonials": [
     {
-      "img": "img/testimonials/01.jpg",
-      "text": "\"I never liked Hull. I am poorer than when I started financial coaching. This negro is a scammer. He regularly shows up to our calls drunk and in a durag.\"",
-      "name": "Salman Djingueinabaye"
+      "img": "img/testimonials/salman.jpg",
+      "text": "Working with Hull was a game-changing experience. Through personalized one-on-one financial mentorship sessions, he provided invaluable guidance that transformed my approach to money management.",
+      "name": "Salman"
     },
     {
       "img": "img/testimonials/02.jpg",
-      "text": "\"Lorem ipsum dolor sit amet, consectetur adipiscing elit. Duis sed dapibus leo nec ornare diam sedasd commodo nibh ante facilisis bibendum dolor feugiat at.\"",
-      "name": "Johnathan Doe"
-    },
-    {
-      "img": "img/testimonials/03.jpg",
-      "text": "\"Lorem ipsum dolor sit amet, consectetur adipiscing elit. Duis sed dapibus leo nec ornare diam sedasd commodo nibh ante facilisis bibendum dolor feugiat at.\"",
-      "name": "John Doe"
+      "text": "What impressed me most was their ability to create a personalized roadmap based on my specific circumstances and goals. After six months of implementing their strategies, I've eliminated my credit card debt and established my first emergency fund. Their mentorship didn't just change my bank account – it transformed my entire relationship with money.",
+      "name": "Michael"
     },
     {
       "img": "img/testimonials/04.jpg",
-      "text": "\"Lorem ipsum dolor sit amet, consectetur adipiscing elit. Duis sed dapibus leo nec ornare diam sedasd commodo nibh ante facilisis bibendum dolor feugiat at.\"",
-      "name": "Johnathan Doe"
-    },
-    {
-      "img": "img/testimonials/05.jpg",
-      "text": "\"Lorem ipsum dolor sit amet, consectetur adipiscing elit. Duis sed dapibus leo nec ornare diam sedasd commodo nibh ante facilisis bibendum dolor feugiat at.\"",
-      "name": "John Doe"
-    },
-    {
-      "img": "img/testimonials/06.jpg",
-      "text": "\"Lorem ipsum dolor sit amet, consectetur adipiscing elit. Duis sed dapibus leo nec ornare diam sedasd commodo nibh ante facilisis bibendum dolor feugiat at.\"",
-      "name": "Johnathan Doe"
+      "text": "The most valuable aspect of working with Hull was learning how to think strategically about money. He didn't just tell me what to do; He taught me how to evaluate financial decisions independently. Thanks to his mentorship, I've doubled my savings rate and finally started investing with confidence.",
+      "name": "Anna"
     }
   ],
   "Team": [
@@ -163,22 +146,22 @@
     {
       "icon": "fa fa-dollar",
       "title": "Cashflow Management",
-      "text": "Lorem ipsum dolor sit amet placerat facilisis felis mi in tempus eleifend pellentesque natoque etiam."
+      "text": "Tracking, analyzing, and optimizing the inflow and outflow of cash."
     },
     {
       "icon": "fa fa-credit-card",
       "title": "Debt Management",
-      "text": "Lorem ipsum dolor sit amet placerat facilisis felis mi in tempus eleifend pellentesque natoque etiam."
+      "text": "Minimizing interest and reducing debt burden"
     },
     {
       "icon": "fa fa-money",
       "title": "Maximizing Savings",
-      "text": "Lorem ipsum dolor sit amet placerat facilisis felis mi in tempus eleifend pellentesque natoque etiam."
+      "text": "Automating monthly savings and creating a budget plan"
     },
     {
       "icon": "fa fa-dashboard",
       "title": "Maximizing Earnings",
-      "text": "Lorem ipsum dolor sit amet placerat facilisis felis mi in tempus eleifend pellentesque natoque etiam."
+      "text": "Seeking growth opportunities and developing marketable skills."
     }
   ]
 }
