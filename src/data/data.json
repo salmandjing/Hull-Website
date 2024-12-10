@@ -103,7 +103,7 @@
     },
     {
       "img": "img/testimonials/02.jpg",
-      "text": "What impressed me most was their ability to create a personalized roadmap based on my specific circumstances and goals. After six months of implementing their strategies, I've eliminated my credit card debt and established my first emergency fund. Their mentorship didn't just change my bank account – it transformed my entire relationship with money.",
+      "text": "What impressed me most was Hull's ability to create a personalized roadmap based on my specific circumstances and goals. After six months of implementing Hull's strategies, I've eliminated my credit card debt and established my first emergency fund. His mentorship didn't just change my bank account – it transformed my entire relationship with money.",
       "name": "Michael"
     },
     {
@@ -146,22 +146,22 @@
     {
       "icon": "fa fa-dollar",
       "title": "Cashflow Management",
-      "text": "Tracking, analyzing, and optimizing the inflow and outflow of cash."
+      "text": "The average American spends $5,400 per year on impulse purchases"
     },
     {
       "icon": "fa fa-credit-card",
       "title": "Debt Management",
-      "text": "Minimizing interest and reducing debt burden"
+      "text": "The average American will pay around $649,067 in interest over their lifetime."
     },
     {
       "icon": "fa fa-money",
       "title": "Maximizing Savings",
-      "text": "Automating monthly savings and creating a budget plan"
+      "text": "40% of Americans can't cover a $400 emergency expense"
     },
     {
       "icon": "fa fa-dashboard",
       "title": "Maximizing Earnings",
-      "text": "Seeking growth opportunities and developing marketable skills."
+      "text": "2 in 3 Americans say their income hasn't kept pace with increased expenses and inflation."
     }
   ]
 }
